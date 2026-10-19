@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Report Builder</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Report Builder</h1>
+    <p>Upload a messy spreadsheet. Get a clean, checked report.</p>
+  </header>
+
+  <main class="layout">
+    <aside class="side">
+      <section class="panel">
+        <label for="apikey">API key</label>
+        <input id="apikey" type="password" autocomplete="off" placeholder="Paste the API_KEY from your .env">
+
+        <div id="drop" class="drop" tabindex="0" role="button" aria-label="Choose a spreadsheet file">
+          <strong>Drop a .csv or .xlsx here</strong>
+          <span>or click to choose a file (max 10 MB)</span>
+          <input id="file" type="file" accept=".csv,.xlsx" hidden>
+        </div>
+        <p id="msg" class="msg" role="status"></p>
+        <button id="run-scheduled" class="ghost" type="button">Run weekly report now</button>
+      </section>
+
+      <section class="panel">
+        <h2>Recent reports</h2>
+        <ul id="list" class="list"></ul>
+        <p id="list-empty" class="muted">No reports yet. Upload a file to start.</p>
+      </section>
+    </aside>
+
+    <section class="main" aria-live="polite">
+      <ol id="steps" class="steps" hidden></ol>
+      <div id="result"></div>
+      <p id="placeholder" class="muted big">Your report will appear here.</p>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

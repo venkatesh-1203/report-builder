@@ -1,0 +1,327 @@
+Monthly Sales Export - DO NOT EDIT,,,,,,
+,,,,,,
+Order Date,Product Name,Region ,Qty,Unit Price,Total Sales,Notes (ignore)
+05-Oct-2026,Desk Lamp,North,4,1299,"5,196",repeat customer
+18/09/2026,Desk Lamp,South,2,"Rs. 1,299","$2,598.00",repeat customer
+12/10/2026,widget a,East,5,499,"$2,495.00",repeat customer
+10/10/2026,widget a,South,2,Rs. 499,$998.00,repeat customer
+04/10/2026,Cable Pack,East,6,199,"1,194",
+19/09/2026, Cable Pack ,West,5,Rs. 199,,gift
+14/10/2026,widget b,North,2,Rs. 899,"1,798",gift
+13/10/2026, Widget B ,North,1,Rs. 899,899,gift
+17-Sep-2026,DESK LAMP,South,1,"Rs. 1,299","1,299",repeat customer
+2026-10-14, Widget A ,West,1,Rs. 499,499,repeat customer
+not a date,CABLE PACK,West,6,199,"1,194",
+14/10/2026, Widget B ,North,5,899,"$4,495.00",repeat customer
+30/09/2026,widget b,East,4,899,"$3,596.00",gift
+02-Oct-2026, Cable Pack ,south,3,Rs. 199,$597.00,
+2026-09-29,cable pack,South,1,Rs. 199,199,repeat customer
+08/10/2026,Cable Pack,East,3,199,597,repeat customer
+10/10/2026, Widget B ,East,4,Rs. 899,"$3,596.00",
+13-Oct-2026,Widget A,North,3,499,1497,
+08/10/2026, Cable Pack ,North,1,Rs. 199,199,repeat customer
+2026-10-08, Gadget Pro ,East,1,"Rs. 2,499","$2,499.00",
+06-Oct-2026,cable pack,East,4,Rs. 199,-500,gift
+24-Sep-2026,CABLE PACK,south,1,199,199,gift
+2026-10-18,widget b,East,2,899,"1,798",repeat customer
+29/09/2026, Cable Pack ,West,2,Rs. 199,398,gift
+2026-10-07, Cable Pack ,South,1,199,199,gift
+07/10/2026,desk lamp,North,3,"Rs. 1,299","3,897",
+15/10/2026, Cable Pack ,north,5,Rs. 199,995,
+22/09/2026, Desk Lamp ,north,6,"Rs. 1,299",7794,gift
+2026-09-20, Cable Pack ,South,6,199,1194,
+25/09/2026, Desk Lamp ,West,1,"Rs. 1,299",1299,gift
+07/10/2026,,North,5,499,2495,
+2026-10-18,cable pack,West,2,Rs. 199,398,
+2026-10-03,GADGET PRO,East,5,2499,"$12,495.00",repeat customer
+07-Oct-2026, Desk Lamp ,West,6,1299,"$7,794.00",repeat customer
+2026-09-24,gadget pro,East,1,2499,"$2,499.00",
+24/09/2026,Gadget Pro,South,6,2499,14994,gift
+21/09/2026,desk lamp,South,1,1299,1299,gift
+2026-09-16,CABLE PACK,East,1,199,199,
+2026-10-02,gadget pro,West,5,2499,"12,495",repeat customer
+2026-09-27,Cable Pack,South,2,Rs. 199,398,
+2026-10-12,Widget A,north,6,Rs. 499,2994,repeat customer
+2026-10-08,widget a,West,2,Rs. 499,998,
+29-Sep-2026, Widget A ,South,4,Rs. 499,"1,996",
+2026-10-08, Widget A ,West,5,Rs. 499,2495,repeat customer
+03/10/2026,gadget pro,south,1,"Rs. 2,499","2,499",gift
+2026-09-17,desk lamp,West,2,1299,2598,gift
+10-Oct-2026, Widget A ,West,5,Rs. 499,"$2,495.00",repeat customer
+2026-09-26,Widget B,East,1,899,$899.00,repeat customer
+2026-09-29,Widget A,South,1,499,499,repeat customer
+23/09/2026,Widget A,south,6,Rs. 499,"$2,994.00",
+04/10/2026,CABLE PACK,East,5,199,995,gift
+16/09/2026,Desk Lamp,West,1,1299,"$1,299.00",repeat customer
+15/10/2026, Widget A ,East,4,499,"1,996",repeat customer
+2026-10-04,cable pack,West,2,199,398,
+10/10/2026,Desk Lamp,North,1,1299,"1,299",gift
+2026-09-25,WIDGET A,East,6,499,"$2,994.00",gift
+26/09/2026,WIDGET A,South,4,Rs. 499,1996,gift
+30/09/2026,WIDGET A,North,3,Rs. 499,"$1,497.00",gift
+02/10/2026,Gadget Pro,North,2,2499,"$4,998.00",gift
+2026-09-17,widget b,North,3,899,"$2,697.00",repeat customer
+2026-10-09,cable pack,South,6,199,"$1,194.00",
+17-Oct-2026,cable pack,north,6,199,1194,
+29/09/2026,WIDGET A,south,1,Rs. 499,499,repeat customer
+18-Sep-2026,cable pack,East,6,Rs. 199,"$1,194.00",repeat customer
+17-Oct-2026,Desk Lamp,West,1,"Rs. 1,299","$1,299.00",gift
+30/09/2026, Cable Pack ,East,2,Rs. 199,398,repeat customer
+03-Oct-2026,cable pack,North,5,Rs. 199,995,repeat customer
+04/10/2026, Cable Pack ,North,2,Rs. 199,398,
+28-Sep-2026,CABLE PACK,East,3,Rs. 199,$597.00,repeat customer
+2026-09-27,Widget B,South,1,Rs. 899,899,gift
+02/10/2026,Widget B,North,2,899,"1,798",
+17-Oct-2026,WIDGET B,South,1,899,899,gift
+16-Sep-2026, Widget A ,South,4,499,"1,996",gift
+09/10/2026,WIDGET B,West,3,899,"$2,697.00",
+2026-09-15,DESK LAMP,North,3,"Rs. 1,299",3897,
+08/10/2026,DESK LAMP,North,3,1299,"3,897",repeat customer
+2026-09-24,WIDGET A,North,3,Rs. 499,"1,497",
+10-Oct-2026,desk lamp,West,5,"Rs. 1,299",6495,gift
+13-Oct-2026,CABLE PACK,East,2,199,398,
+2026-09-25,GADGET PRO,South,3,2499,7497,gift
+2026-10-10, Cable Pack ,North,3,199,$597.00,
+17-Oct-2026,desk lamp,East,4,"Rs. 1,299","5,196",gift
+23/09/2026,gadget pro,South,2,"Rs. 2,499","$4,998.00",gift
+01/10/2026, Cable Pack ,South,2,199,$398.00,gift
+2026-10-02,WIDGET B,East,1,Rs. 899,899,repeat customer
+18/10/2026,CABLE PACK,north,2,Rs. 199,398,gift
+12/10/2026,Desk Lamp,South,1,1299,"1,299",repeat customer
+16-Oct-2026, Widget A ,south,4,Rs. 499,"$1,996.00",
+24/09/2026, Widget A ,North,6,499,"$2,994.00",
+29-Sep-2026,CABLE PACK,south,1,199,199,repeat customer
+12/10/2026,Cable Pack,South,1,199,$199.00,gift
+01/10/2026,Widget A,East,5,499,"2,495",gift
+30-Sep-2026,gadget pro,North,2,"Rs. 2,499",4998,gift
+18-Sep-2026, Widget A ,North,4,Rs. 499,"1,996",gift
+2026-09-29, Gadget Pro ,South,6,"Rs. 2,499","$14,994.00",gift
+17/10/2026,WIDGET A,West,4,Rs. 499,"1,996",
+01/10/2026, Cable Pack ,East,3,199,597,gift
+2026-09-18,Desk Lamp,North,2,1299,"$2,598.00",gift
+2026-09-18, Cable Pack ,north,2,199,398,
+20/09/2026,desk lamp,East,3,1299,"3,897",
+2026-10-04,CABLE PACK,South,4,Rs. 199,$796.00,gift
+20-Sep-2026,widget b,South,1,899,899,gift
+20/09/2026,WIDGET A,East,4,Rs. 499,"1,996",gift
+15/10/2026, Widget A ,North,4,Rs. 499,"$1,996.00",
+01-Oct-2026,WIDGET A,South,1,Rs. 499,499,
+2026-10-01,CABLE PACK,South,6,199,1194,repeat customer
+19/09/2026, Widget A ,West,2,Rs. 499,998,gift
+2026-10-12,cable pack,North,2,199,398,repeat customer
+2026-09-24, Cable Pack ,South,3,199,$597.00,repeat customer
+27/09/2026, Widget B ,North,2,Rs. 899,1798,repeat customer
+05/10/2026,Widget A,South,4,Rs. 499,"$1,996.00",gift
+16/10/2026,desk lamp,North,4,"Rs. 1,299",5196,
+2026-09-22,CABLE PACK,East,3,Rs. 199,597,gift
+27/09/2026,widget b,North,2,899,1798,
+05/10/2026,widget a,East,3,Rs. 499,"1,497",
+2026-09-21,WIDGET A,North,2,Rs. 499,$998.00,
+27/09/2026,Cable Pack,South,5,199,995,repeat customer
+01/10/2026,Cable Pack,East,6,199,"1,194",
+17/09/2026,widget b,south,2,Rs. 899,1798,repeat customer
+2026-09-28,CABLE PACK,North,3,Rs. 199,$597.00,
+2026-10-16,Gadget Pro,West,1,2499,"$2,499.00",repeat customer
+20-Sep-2026,CABLE PACK,South,4,Rs. 199,796,gift
+2026-09-18, Widget B ,South,5,899,"4,495",repeat customer
+27/09/2026,Widget B,South,4,Rs. 899,"$3,596.00",
+2026-10-10,cable pack,North,3,Rs. 199,$597.00,repeat customer
+2026-10-10,widget a,North,5,Rs. 499,2495,
+19/09/2026,WIDGET A,North,4,499,"1,996",gift
+2026-09-18,Cable Pack,north,6,199,"$1,194.00",repeat customer
+29/09/2026, Cable Pack ,North,5,Rs. 199,995,repeat customer
+25/09/2026,widget b,south,1,899,$899.00,
+17/09/2026, Cable Pack ,East,3,199,597,gift
+2026-10-11, Widget B ,East,2,Rs. 899,"1,798",
+2026-09-16,widget a,East,4,499,"1,996",
+15/10/2026,WIDGET B,South,1,Rs. 899,899,repeat customer
+17-Oct-2026,cable pack,North,1,199,199,repeat customer
+2026-09-20,widget a,North,5,Rs. 499,2495,repeat customer
+2026-09-22,widget a,West,4,499,"$1,996.00",
+07/10/2026,CABLE PACK,north,3,Rs. 199,597,
+01/10/2026,GADGET PRO,East,4,"Rs. 2,499","9,996",
+27-Sep-2026,WIDGET A,West,2,499,$998.00,gift
+22-Sep-2026,CABLE PACK,south,1,Rs. 199,199,repeat customer
+21-Sep-2026, Widget B ,West,5,Rs. 899,"4,495",gift
+2026-09-24,widget b,North,1,899,$899.00,gift
+18-Oct-2026,WIDGET B,West,6,899,"$5,394.00",
+2026-10-03,CABLE PACK,north,4,Rs. 199,$796.00,repeat customer
+17-Sep-2026,WIDGET A,South,1,499,499,
+11/10/2026,cable pack,South,5,199,$995.00,
+15-Sep-2026,desk lamp,East,2,"Rs. 1,299","$2,598.00",repeat customer
+02/10/2026,Widget B,East,3,899,"2,697",repeat customer
+13-Oct-2026, Cable Pack ,South,5,199,$995.00,
+16/09/2026,Widget B,north,2,Rs. 899,1798,repeat customer
+27-Sep-2026, Widget A ,West,2,Rs. 499,998,
+2026-10-04,Cable Pack,South,6,Rs. 199,"1,194",
+2026-10-13,widget a,East,1,Rs. 499,499,repeat customer
+01-Oct-2026, Cable Pack ,West,3,199,597,gift
+28/09/2026,widget a,South,5,Rs. 499,2495,
+25/09/2026, Cable Pack ,South,3,Rs. 199,597,repeat customer
+15-Oct-2026,Gadget Pro,West,5,"Rs. 2,499",12495,
+04-Oct-2026,Cable Pack,East,4,Rs. 199,$796.00,
+2026-09-22,widget a,West,2,Rs. 499,$998.00,repeat customer
+17/09/2026,Cable Pack,West,6,199,"$1,194.00",repeat customer
+2026-09-19,Desk Lamp,South,6,"Rs. 1,299","$7,794.00",
+20-Sep-2026,CABLE PACK,East,6,Rs. 199,1194,
+2026-10-03,Widget B,South,4,899,"$3,596.00",repeat customer
+08-Oct-2026, Desk Lamp ,West,5,1299,"$6,495.00",gift
+2026-09-16, Widget B ,West,1,899,$899.00,repeat customer
+20/09/2026, Cable Pack ,North,3,Rs. 199,$597.00,
+07-Oct-2026,gadget pro,south,4,2499,9996,gift
+25-Sep-2026,widget b,East,2,Rs. 899,1798,
+16-Oct-2026,Cable Pack,East,6,Rs. 199,"1,194",gift
+20/09/2026,WIDGET B,North,6,Rs. 899,5394,repeat customer
+25/09/2026, Widget B ,North,6,899,5394,repeat customer
+17-Sep-2026,widget b,West,3,Rs. 899,2697,repeat customer
+05-Oct-2026,WIDGET A,East,4,Rs. 499,"1,996",repeat customer
+2026-09-30,gadget pro,West,3,2499,7497,gift
+2026-10-18,widget b,South,2,899,"$1,798.00",
+21/09/2026,WIDGET A,West,2,Rs. 499,$998.00,
+2026-09-21,Widget B,North,4,899,"3,596",repeat customer
+2026-09-29, Gadget Pro ,North,6,"Rs. 2,499",14994,gift
+15-Sep-2026, Cable Pack ,West,4,199,796,repeat customer
+29/09/2026, Cable Pack ,South,6,Rs. 199,1194,
+11-Oct-2026,widget a,South,4,Rs. 499,"1,996",
+11/10/2026,GADGET PRO,West,6,"Rs. 2,499","14,994",
+17/09/2026,widget b,East,2,Rs. 899,1798,gift
+28/09/2026,CABLE PACK,East,5,Rs. 199,995,
+26-Sep-2026,WIDGET B,East,1,Rs. 899,899,gift
+2026-09-18,WIDGET A,East,4,Rs. 499,"1,996",repeat customer
+10/10/2026, Desk Lamp ,East,5,"Rs. 1,299","$6,495.00",repeat customer
+27-Sep-2026,gadget pro,West,5,"Rs. 2,499",12495,repeat customer
+11-Oct-2026,gadget pro,West,3,"Rs. 2,499","$7,497.00",gift
+09-Oct-2026,cable pack,East,4,199,796,gift
+2026-09-30, Cable Pack ,South,3,199,597,gift
+24/09/2026,Desk Lamp,West,4,1299,"$5,196.00",repeat customer
+07-Oct-2026,Cable Pack,North,1,Rs. 199,199,gift
+21/09/2026, Cable Pack ,South,2,Rs. 199,398,repeat customer
+25-Sep-2026,Cable Pack,West,6,199,1194,gift
+27-Sep-2026,Gadget Pro,West,2,"Rs. 2,499","$4,998.00",repeat customer
+22/09/2026, Widget B ,East,2,Rs. 899,"1,798",
+16-Oct-2026,Widget A,North,2,Rs. 499,998,repeat customer
+2026-10-16, Cable Pack ,South,4,199,$796.00,
+08/10/2026,Cable Pack,West,1,199,199,
+17/10/2026,gadget pro,West,2,2499,"4,998",
+08-Oct-2026,widget b,South,5,Rs. 899,"4,495",repeat customer
+2026-09-18, Cable Pack ,South,3,199,597,repeat customer
+2026-10-07,Desk Lamp,South,6,"Rs. 1,299","7,794",
+2026-09-20, Cable Pack ,East,1,Rs. 199,199,
+15-Sep-2026,Widget A,West,4,499,1996,gift
+24-Sep-2026,Cable Pack,North,6,199,"1,194",repeat customer
+26/09/2026, Widget A ,West,2,499,998,
+2026-10-08,DESK LAMP,West,2,"Rs. 1,299","$2,598.00",gift
+16-Sep-2026,Widget B,East,6,899,"$5,394.00",gift
+10-Oct-2026, Widget B ,East,1,899,899,
+15/10/2026,Cable Pack,East,5,Rs. 199,$995.00,repeat customer
+15-Sep-2026,Widget B,south,1,899,$899.00,
+23-Sep-2026,gadget pro,East,3,2499,"$7,497.00",gift
+2026-09-24, Cable Pack ,East,1,199,199,
+17-Sep-2026,Widget A,South,1,Rs. 499,499,
+2026-10-16, Cable Pack ,East,3,Rs. 199,$597.00,gift
+2026-09-25, Cable Pack ,West,4,Rs. 199,796,repeat customer
+06-Oct-2026,WIDGET B,West,1,899,$899.00,
+2026-10-04, Cable Pack ,West,2,199,$398.00,gift
+2026-10-03,CABLE PACK,South,3,199,$597.00,gift
+24/09/2026,CABLE PACK,south,5,199,995,repeat customer
+16-Oct-2026, Widget B ,West,1,Rs. 899,899,
+2026-10-04, Cable Pack ,West,6,199,1194,
+09-Oct-2026,GADGET PRO,West,1,"Rs. 2,499",2499,repeat customer
+2026-10-01, Desk Lamp ,East,5,"Rs. 1,299","$6,495.00",
+2026-09-20,WIDGET A,East,6,Rs. 499,2994,
+2026-09-30,Widget A,South,4,Rs. 499,"$1,996.00",
+2026-10-05,Cable Pack,North,3,Rs. 199,597,gift
+2026-09-28,Widget B,south,3,899,2697,
+01/10/2026,cable pack,South,3,Rs. 199,$597.00,repeat customer
+2026-10-08,Desk Lamp,West,4,1299,"$5,196.00",repeat customer
+20/09/2026,Widget B,south,5,899,"4,495",
+13/10/2026,cable pack,North,3,199,597,
+2026-09-16, Cable Pack ,North,1,Rs. 199,$199.00,
+04-Oct-2026,Cable Pack,East,4,Rs. 199,796,
+2026-10-08,gadget pro,West,2,2499,"$4,998.00",gift
+27/09/2026,Cable Pack,north,2,199,398,
+13/10/2026,Desk Lamp,East,4,"Rs. 1,299","$5,196.00",gift
+2026-09-22,cable pack,West,2,Rs. 199,398,repeat customer
+2026-09-24, Widget B ,South,2,Rs. 899,"1,798",repeat customer
+2026-10-03, Widget B ,North,2,Rs. 899,"1,798",
+24-Sep-2026,desk lamp,East,1,1299,"$1,299.00",gift
+2026-09-27,desk lamp,north,4,"Rs. 1,299","5,196",gift
+2026-09-25,widget a,south,6,Rs. 499,2994,gift
+17-Oct-2026,WIDGET A,North,1,Rs. 499,499,
+02/10/2026,cable pack,West,2,Rs. 199,$398.00,
+16/10/2026,cable pack,East,2,199,$398.00,repeat customer
+04-Oct-2026, Widget A ,West,1,499,499,gift
+2026-10-06,Widget B,North,6,899,"5,394",
+2026-10-02,Widget A,North,5,Rs. 499,2495,
+07-Oct-2026,Gadget Pro,North,4,2499,"9,996",repeat customer
+2026-10-09,Cable Pack,south,1,Rs. 199,199,
+18/10/2026,cable pack,south,2,Rs. 199,$398.00,
+21/09/2026,Widget B,North,5,899,"$4,495.00",gift
+16-Sep-2026, Cable Pack ,East,6,199,"$1,194.00",gift
+2026-09-21,Cable Pack,East,1,199,199,
+22-Sep-2026,widget a,West,2,Rs. 499,998,gift
+10-Oct-2026, Widget A ,West,1,499,499,repeat customer
+2026-09-17,WIDGET B,South,1,899,899,gift
+05/10/2026,CABLE PACK,East,5,199,995,
+2026-10-12,Cable Pack,East,1,Rs. 199,199,
+17/10/2026, Cable Pack ,south,2,199,398,repeat customer
+17/09/2026,CABLE PACK,north,1,199,199,repeat customer
+17/09/2026,Cable Pack,South,3,199,597,
+04/10/2026,Widget B,East,2,899,1798,gift
+20/09/2026, Gadget Pro ,North,5,"Rs. 2,499","12,495",gift
+03/10/2026,WIDGET B,West,6,899,5394,
+2026-10-09, Widget A ,north,6,Rs. 499,"2,994",gift
+04/10/2026,widget a,East,3,Rs. 499,1497,gift
+15/09/2026,DESK LAMP,East,2,"Rs. 1,299","2,598",
+03/10/2026,Widget A,East,1,Rs. 499,499,
+2026-10-18,Widget B,East,4,899,3596,repeat customer
+2026-09-24,widget b,West,6,899,"5,394",repeat customer
+2026-09-21,CABLE PACK,West,6,199,1194,
+2026-10-11,Desk Lamp,East,1,1299,1299,
+11-Oct-2026,Cable Pack,South,3,Rs. 199,597,gift
+07-Oct-2026, Widget B ,East,4,Rs. 899,3596,gift
+09-Oct-2026,WIDGET B,West,2,Rs. 899,"1,798",repeat customer
+2026-09-29,widget a,south,3,Rs. 499,"1,497",
+2026-09-16,WIDGET A,north,5,499,2495,repeat customer
+12-Oct-2026, Gadget Pro ,South,5,"Rs. 2,499",12495,repeat customer
+07-Oct-2026,Gadget Pro,East,1,"Rs. 2,499","2,499",repeat customer
+10/10/2026,cable pack,south,5,Rs. 199,995,repeat customer
+06/10/2026,cable pack,South,6,Rs. 199,"$1,194.00",gift
+2026-10-17,WIDGET A,West,6,499,"2,994",repeat customer
+25/09/2026,gadget pro,South,5,"Rs. 2,499",12495,repeat customer
+21-Sep-2026,Widget B,West,6,Rs. 899,"$5,394.00",gift
+15/09/2026,Desk Lamp,West,4,"Rs. 1,299","5,196",repeat customer
+02-Oct-2026,desk lamp,East,5,"Rs. 1,299","$6,495.00",
+25/09/2026,Gadget Pro,North,5,"Rs. 2,499",12495,gift
+14-Oct-2026,Cable Pack,West,1,199,$199.00,repeat customer
+30/09/2026,WIDGET B,East,2,899,1798,
+2026-10-07,Widget A,North,5,499,2495,
+13/10/2026,widget a,North,2,499,$998.00,gift
+2026-09-15, Desk Lamp ,East,4,1299,"5,196",
+30-Sep-2026,cable pack,South,6,Rs. 199,1194,gift
+16/09/2026,cable pack,North,2,Rs. 199,$398.00,gift
+2026-10-10, Cable Pack ,South,1,199,$199.00,gift
+07/10/2026, Cable Pack ,South,4,Rs. 199,$796.00,gift
+16/09/2026,widget b,North,2,Rs. 899,"$1,798.00",repeat customer
+13/10/2026,GADGET PRO,South,2,2499,"4,998",repeat customer
+28-Sep-2026,widget b,South,4,Rs. 899,"$3,596.00",repeat customer
+01-Oct-2026,CABLE PACK,East,4,Rs. 199,796,
+23-Sep-2026,Desk Lamp,East,1,"Rs. 1,299","1,299",
+24-Sep-2026,Widget B,West,4,899,"$3,596.00",gift
+27/09/2026,CABLE PACK,West,1,199,$199.00,
+04/10/2026, Widget A ,South,3,Rs. 499,"1,497",repeat customer
+23/09/2026,DESK LAMP,West,2,1299,"2,598",gift
+2026-09-16,cable pack,south,6,Rs. 199,1194,
+26-Sep-2026,widget b,West,3,Rs. 899,"$2,697.00",repeat customer
+25/09/2026, Widget B ,West,3,899,2697,repeat customer
+26-Sep-2026, Cable Pack ,West,2,Rs. 199,398,repeat customer
+07-Oct-2026,DESK LAMP,north,1,1299,1299,repeat customer
+18/09/2026,Desk Lamp,West,6,"Rs. 1,299","7,794",repeat customer
+2026-09-20,widget b,South,6,Rs. 899,"5,394",gift
+06-Oct-2026, Cable Pack ,East,6,199,"$1,194.00",gift
+2026-10-17,cable pack,North,2,199,398,gift
+26/09/2026,GADGET PRO,South,6,"Rs. 2,499","14,994",gift
+2026-10-12,Widget A,north,6,Rs. 499,2994,repeat customer
+2026-10-08,widget a,West,2,Rs. 499,998,
+29-Sep-2026, Widget A ,South,4,Rs. 499,"1,996",
+Total,,,,,"999,999",
